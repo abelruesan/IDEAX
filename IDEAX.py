@@ -52,7 +52,7 @@ while True:
         else:
             print("\nTodavía no hay ningún proyecto creado.")
 
-    # Opciçon actualizar progreso
+    # Opción actualizar progreso
     elif opcion == 3:
         print()
         for pos, elemento in enumerate(proyectos):
